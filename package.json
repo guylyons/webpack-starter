@@ -1,6 +1,6 @@
 {
   "name": "webpack-starter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "starting point for WebPack projects",
   "main": "index.js",
   "author": "Guy Lyons",
@@ -10,7 +10,9 @@
     "start": "webpack --config webpack.config.js"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
-    "webpack": "^3.8.1"
+    "webpack": "^4.20.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
   }
 }
