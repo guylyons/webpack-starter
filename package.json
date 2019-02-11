@@ -10,9 +10,9 @@
     "start": "webpack --config webpack.config.js"
   },
   "dependencies": {
-    "webpack": "^4.20.2"
+    "webpack": "^4.29.3"
   },
   "devDependencies": {
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.2.3"
   }
 }
